@@ -1,0 +1,20 @@
+*, *::after, *::before {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+article > h1 {
+  text-align: center;
+}
+
+.palettes {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.palettes > color-palette {
+  width: 12em;
+}
