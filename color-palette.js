@@ -7,6 +7,7 @@
   const css = `
     :host {
       text-align: center;
+      margin-bottom: 2em;
     }
 
     .name {

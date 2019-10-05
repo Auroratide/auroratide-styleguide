@@ -13,6 +13,7 @@ article > h1 {
 .palettes {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
 .palettes > color-palette {
